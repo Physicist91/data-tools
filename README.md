@@ -2,6 +2,12 @@
 
 Powerful tools and libraries for building data products.
 
+## D3Blocks
+
+[D3Blocks](https://d3blocks.github.io/d3blocks/pages/html/index.html) uses the graphics of d3 javascript (d3js) to create interactive and standalone plots that can be configured with Python. 
+
+![](https://d3-graph-gallery.com/img/graph/interactivity_brushTrigger.gif)
+
 ## CopilotKit
 
 [CopilotKit](https://github.com/CopilotKit/CopilotKit) is an open-source framework that lets us integrate AI into react applications with little code easily.
