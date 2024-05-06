@@ -45,3 +45,10 @@ Powerful tools and libraries for building data products.
 [PyGWalker](https://github.com/Kanaries/pygwalker) allows you to open a Tableau-style interface for visual analysis. Note that Graphic Walker is an open-source alternative to Tableau.
 
 ![](https://camo.githubusercontent.com/4afc01853eeb3b8343f652a9444c349278b0894e3191b7642ba5e6fe6cac219e/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d672f70796777616c6b65722f74726176656c2d616e692d312d6c696768742e676966)
+
+
+## Bar Chart Race
+
+[Bar-chart-race](https://github.com/dexplo/bar_chart_race) makes animated bar and line chart races with `matplotlib` or `plotly`.
+
+![](https://pypi-camo.freetls.fastly.net/1fe7520b332b559281024ffd4c24417a32f290e5/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f646578706c6f2f6261725f63686172745f726163652f6d61737465722f646f63732f696d616765732f636f76696431395f686f72697a2e676966)
