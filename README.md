@@ -9,6 +9,8 @@ Powerful tools and libraries for building data products.
 - Charting tool using text and code: [Mermaid](https://mermaid.js.org/)
 - Open-source tool to generate UML diagrams: [PlantUML](https://github.com/plantuml/plantuml)
 
+Pro tip: you can use these tools in conjunction with ChatGPT/Bard/etc.
+
 ## D3Blocks
 
 [D3Blocks](https://d3blocks.github.io/d3blocks/pages/html/index.html) uses the graphics of d3 javascript (d3js) to create interactive and standalone plots that can be configured with Python. 
