@@ -2,6 +2,13 @@
 
 Powerful tools and libraries for building data products.
 
+## Architecture Drawing
+
+- Turn Python code to diagrams with [Diagrams](https://diagrams.mingrammer.com/)
+- Make mindmap with markdown: [Markmap](https://markmap.js.org/)
+- Charting tool using text and code: [Mermaid](https://mermaid.js.org/)
+- Open-source tool to generate UML diagrams: [PlantUML](https://github.com/plantuml/plantuml)
+
 ## D3Blocks
 
 [D3Blocks](https://d3blocks.github.io/d3blocks/pages/html/index.html) uses the graphics of d3 javascript (d3js) to create interactive and standalone plots that can be configured with Python. 
